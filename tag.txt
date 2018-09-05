@@ -1,0 +1,23 @@
+h1 a h7 - são titulos
+ul - lista
+li - item da lista
+i - italico
+b - negrito
+strong - negrito
+br/ - quebra de linha
+a href - link
+div - agrupa conjunto de itens, no final da uma quebra de linha
+span - agrupa conjunto de itens
+table - cria tabela - border - borda da tabela
+tr - linha da tabela
+td - cria coluna
+th - cabeçalho da tabela, negrita e centraliza
+thead - isolar cabeçalho da tabela
+tbody - informa que as linhas são dados
+tfoot - rodapé da tabela - 
+colspan - celula ocupa espaço de colunas informadas
+rowspan - celula ocupa espaço de linhas informadas
+form - cria formulario
+input - entrada de dados
+select - cria lista suspensa
+option - cria as opções
